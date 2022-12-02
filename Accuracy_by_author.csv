@@ -1,0 +1,31 @@
+,author,Accuracy_Neural Network,accuracy_KMeans_Sentiment,accuracy_MeanShift_Sentiment,accuracy_AffinityPropagation_Sentiment,accuracy_SpectralClustering_Sentiment
+0,Breitbart News,,0,1,0,0.4
+1,Pam Key,0.923,0.041666667,0,0,0.31
+2,Associated Press,0.622,0.125,0,0,0
+3,Charlie Spiering,0.8,0.041666667,0,0,0.06
+4,Jerome Hudson,0.818,0.041666667,0,0,0.08
+5,John Hayward,0.697,0.041666667,0,0.083333333,0.16
+6,Daniel Nussbaum,0.884,0.125,0,0,0
+7,AWR Hawkins,1,0.125,0,0,0
+8,Ian Hanchett,0.97,0,0,0.041666667,0
+9,Joel B. Pollak,0.935,0.083333333,0,0.041666667,0
+10,Post Editorial Board,0.975,0,0,0.041666667,0
+11,Alex Swoyer,0.786,0,0,0.083333333,0
+12,Camila Domonoske,0.593,0.166666667,0,0,0
+13,Warner Todd Huston,0.931,0.083333333,0,0.041666667,0
+14,NPR Staff,0.861,0,0,0.041666667,0
+15,Jeff Poor,,0,0,0.041666667,0
+16,Merrit Kennedy,0.649,0,0,0.125,0
+17,Trent Baker,0.963,0.083333333,0,0,0
+18,Katherine Rodriguez,0.707,0.041666667,0,0,0
+19,Reuters,0.649,0.083333333,0,0,0
+20,Charlie Nash,0.976,0,0,0.083333333,0
+21,Bill Chappell,0.475,0,0,0,0
+22,Breitbart London,0.743,0.041666667,0,0,0
+23,Ben Kew,1,0,0,0.041666667,0
+24,Frances Martel,0.926,0,0,0.083333333,0
+25,David French,0.941,0,0,0,0
+26,German Lopez,0.788,0.083333333,0,0,0
+27,David A. Graham,0.767,0,0,0.041666667,0
+28,Bob Price,0.9,0,0,0.041666667,0
+29,Esme Cribb,0.862,0.041666667,0,0,0
